@@ -1,1 +1,4 @@
 Python 黑客教程
+我现在决定我的github网名为Qchihun（Q赤魂）
+我是一个github新用户，这里是我学习python时记录的笔记希望对想要学习python hack 的人有帮助
+相关代码会上传或者记录在文档内
